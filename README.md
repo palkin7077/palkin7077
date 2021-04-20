@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @palkin7077
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Sparks
-- 💞️ I’m looking to collaborate on Data Engineer endevours
+- 💞️ I’m looking to collaborate on Data Engineer endeavour
 - 📫 How to reach me Vpalin92@icloud.com
 
 <!---
