@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @palkin7077
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Sparks
-- 💞️ I’m looking to collaborate on Data Engineer endeavour
-- 📫 How to reach me Vpalin92@icloud.com
+- 👀 Professional Data engineer
+- 🌱 Currently consuming AI
+- 💞️ I’m looking to collaborate on Data Engineer projects
+- 📫 How to reach me palkin.pv@outlook.com
 
 <!---
 palkin7077/palkin7077 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
